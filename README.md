@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ezz Fazary
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning .net
+- 👀 I’m interested in C# & Xamarin Forms
 - 💞️ I’m looking to collaborate on Maui
 - 📫 How to reach me https://twitter.com/fazary90
 
